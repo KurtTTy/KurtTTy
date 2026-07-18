@@ -70,7 +70,11 @@ I'm a software developer who enjoys building applications, exploring new technol
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Overview
+
+</div>
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurtTTy&theme=github" />

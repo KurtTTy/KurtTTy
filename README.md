@@ -8,7 +8,11 @@
 
 ---
 
+<div align="center">
+
 # 👨‍💻 About Me
+
+</div>
 
 - 💻 Software Development
 - 🤖 Artificial Intelligence

@@ -84,7 +84,7 @@ I'm a software developer who enjoys building applications, exploring new technol
 
 # 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ljkurt.website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ljkurt.website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.ljkurt.website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ljkurt.website)
 [![Email](https://img.shields.io/badge/Email-pascualljkurt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pascualljkurt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KurtTTy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KurtTTy)
 
